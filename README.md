@@ -1,2 +1,2 @@
 # oh-my-ubuntu
-A bash script that customizes my Ubuntu
+A bash script collection that customizes my Ubuntu
