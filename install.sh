@@ -1,4 +1,4 @@
-# Install dependencies (in case there aren't installed yet)
+# Install Pre-requisites
 
 # TODO: verify if programs are  already installed
 #hash git &>/dev/null && echo "Installed" || echo "Not installed"
