@@ -1,9 +1,5 @@
 # Automate theme and iconset installation
 
-# Pre-requisites
-echo "Installing pre-requisites..."
-sudo apt-get install unity-tweak-tool gnome-tweak-tool
-
 # Ultra-Flat 2.0 Theme 
 # http://gnome-look.org/content/show.php/Ultra-Flat?content=167473&PHPSESSID=a6421dee232a27b345888fed243e2848
 echo "Installing theme..."
